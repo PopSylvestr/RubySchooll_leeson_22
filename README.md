@@ -1,2 +1,4 @@
-# RubySchooll_leeson_22
-Repository foor lesson 22
+# RubySchool,leeson 22
+==========================
+
+Repository for lesson 22
